@@ -1,0 +1,26 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [ESP32_DAQ.PrjPcb]
+   Generated File[PCB.GTL]
+   Generated File[PCB.G1]
+   Generated File[PCB.G2]
+   Generated File[PCB.GBL]
+   Generated File[PCB.GTO]
+   Generated File[PCB.GBO]
+   Generated File[PCB.GTS]
+   Generated File[PCB.GBS]
+   Generated File[PCB.GTP]
+   Generated File[PCB.GBP]
+   Generated File[PCB.GM]
+   Generated File[PCB.GBR1]
+   Generated File[PCB.GBR2]
+   Generated File[PCB.GD1]
+   Generated File[PCB.GG1]
+   Generated File[PCB.EXTREP]
+   Generated File[PCB.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 7:48:57 PM On 1/16/2024
