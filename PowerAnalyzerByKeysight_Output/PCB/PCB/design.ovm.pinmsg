@@ -1,0 +1,11 @@
+PinList size is 8
+Found 8 pins, 0 pins overlapped
+
+2	U5-8	Found,growthperc=0,findBufferLength=62,preferential=1, layerId=1, stackId=3, position= (0.047186,0.050673,0.00153558), inputPosition= (0.047186,0.050673,0.00155336), area= 8.834e-07
+3	U5-2	Found,growthperc=0,findBufferLength=62,preferential=1, layerId=1, stackId=3, position= (0.052636,0.051943,0.00153558), inputPosition= (0.052636,0.051943,0.00155336), area= 8.834e-07
+8	U2-33	Found,growthperc=0,findBufferLength=60,preferential=1, layerId=1, stackId=3, position= (0.044692,0.016219,0.00153558), inputPosition= (0.044692,0.016219,0.00155336), area= 6.25087e-07
+4	U2-17	Found,growthperc=0,findBufferLength=62,preferential=1, layerId=1, stackId=3, position= (0.042242,0.017969,0.00153558), inputPosition= (0.042242,0.017969,0.00155336), area= 1.85478e-07
+5	U2-32	Found,growthperc=0,findBufferLength=62,preferential=1, layerId=1, stackId=3, position= (0.046442,0.013769,0.00153558), inputPosition= (0.046442,0.013769,0.00155336), area= 1.96904e-07
+6	U2-31	Found,growthperc=0,findBufferLength=49,preferential=1, layerId=1, stackId=3, position= (0.045942,0.013769,0.00153558), inputPosition= (0.045942,0.013769,0.00155336), area= 1.50148e-07
+7	U2-11	Found,growthperc=0,findBufferLength=66,preferential=1, layerId=1, stackId=3, position= (0.045442,0.018669,0.00153558), inputPosition= (0.045442,0.018669,0.00155336), area= 1.67691e-07
+1	L1-2	Found,growthperc=0,findBufferLength=68,preferential=1, layerId=1, stackId=3, position= (0.030226,0.0425589,0.00153558), inputPosition= (0.030226,0.0425589,0.00155336), area= 6.11898e-07

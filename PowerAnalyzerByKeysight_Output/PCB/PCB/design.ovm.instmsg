@@ -1,0 +1,11 @@
+InstanceList size is 2
+Found 1 instances, missed 6 instances (probably disabled in simulation), 1 instances overlapped with other pins or instances
+
+1000000	U2	Found,growthperc=0,findBufferLength=175,preferential=1, layerIds=[1], stackIds=[3], position= (0.042242,0.013769,0.0015178)-(0.047142,0.018669,0.00155336), inputPosition= (0.042242,0.013769,0.0015178)-(0.047142,0.018669,0.00155336)
+1000000	U2	Overlapped with 8,growthperc=0,findBufferLength=175,preferential=1, layerIds=[1], stackIds=[3], position= (0.042242,0.013769,0.0015178)-(0.047142,0.018669,0.00155336), inputPosition= (0.042242,0.013769,0.0015178)-(0.047142,0.018669,0.00155336)
+1000001	L1	Not found,growthperc=0,findBufferLength=0,preferential=1, layerIds=[1], stackIds=[3], position= (0.030226,0.0410071,0.0015178)-(0.030226,0.0425589,0.00155336), inputPosition= (0.030226,0.0410071,0.0015178)-(0.030226,0.0425589,0.00155336)
+1000001	L1	Not found,growthperc=0.01,findBufferLength=0,preferential=1, layerIds=[1], stackIds=[3], position= (0.030226,0.0410071,0.0015178)-(0.030226,0.0425589,0.00155336), inputPosition= (0.030226,0.0410071,0.0015178)-(0.030226,0.0425589,0.00155336)
+1000001	L1	Not found,growthperc=0.05,findBufferLength=0,preferential=1, layerIds=[1], stackIds=[3], position= (0.030226,0.0410071,0.0015178)-(0.030226,0.0425589,0.00155336), inputPosition= (0.030226,0.0410071,0.0015178)-(0.030226,0.0425589,0.00155336)
+1000001	L1	Not found,growthperc=0.1,findBufferLength=0,preferential=1, layerIds=[1], stackIds=[3], position= (0.030226,0.0410071,0.0015178)-(0.030226,0.0425589,0.00155336), inputPosition= (0.030226,0.0410071,0.0015178)-(0.030226,0.0425589,0.00155336)
+1000001	L1	Not found,growthperc=0.2,findBufferLength=0,preferential=1, layerIds=[1], stackIds=[3], position= (0.030226,0.0410071,0.0015178)-(0.030226,0.0425589,0.00155336), inputPosition= (0.030226,0.0410071,0.0015178)-(0.030226,0.0425589,0.00155336)
+1000001	L1	Not found,growthperc=0.5,findBufferLength=0,preferential=1, layerIds=[1], stackIds=[3], position= (0.030226,0.0410071,0.0015178)-(0.030226,0.0425589,0.00155336), inputPosition= (0.030226,0.0410071,0.0015178)-(0.030226,0.0425589,0.00155336)

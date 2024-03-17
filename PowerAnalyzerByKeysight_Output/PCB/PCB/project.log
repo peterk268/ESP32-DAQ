@@ -1,0 +1,19 @@
+Started on Wed Feb 21 12:11:49 2024
+
+emprvem: v1.0.0
+Invoking vmesh...
+FEM_VMESH v2.152.55
+Generating DC mesh
+Building Model
+
+
+
+ Checking face descriptors
+ Checking face descriptors
+Generating Solver Files
+Generated: 
+  110817 mesh elements
+<font color="red">[error]</font> Vmesh failed
+Finished on Wed Feb 21 12:32:08 2024
+
+Total Elapsed Time : 1219.36s
